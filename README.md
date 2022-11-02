@@ -11,4 +11,4 @@ This landing page project is the _first_ project I made. This is a result of stu
 
 ## Screenshots
 
-![Full page screenshot]()
+![Full page screenshot](https://github.com/CodingNewbie/landing-page/blob/main/landing-page-screenshot.png?raw=true)
